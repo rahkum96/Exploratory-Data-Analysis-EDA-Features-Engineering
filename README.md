@@ -4,7 +4,7 @@
 Technically, The primary motive of EDA is to
 
 - Examine the data distribution
-- Handling missing values of the dataset(a most common issue with every dataset)
+- Handling missing values of the dataset(a most common issue with every dataset) 
 - Handling the outliers
 - Removing duplicate data
 - Encoding the categorical variables
