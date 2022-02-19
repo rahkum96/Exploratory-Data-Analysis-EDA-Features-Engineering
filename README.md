@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-EDA-Features-Engineering 
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis 
 Technically, The primary motive of EDA is to
 
 - Examine the data distribution
